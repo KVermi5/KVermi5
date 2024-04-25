@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022<br>📚 I'm currently learning: Python<br>🎯 Goals: break into tech with an intership and work on personal projects to hone my programming skills<br>🎲 Fun fact: I am currently working my way to competitive weightlifting!</p>
+<p align="left">✨ Creating bugs since: 2022<br>📚 I'm currently learning: Python<br>🎯 Goals: break into tech with an intership and work on personal projects to hone my programming skills<br>🎲 Fun fact: I am currently training to start competitive weightlifting!</p>
 
 ###
 
